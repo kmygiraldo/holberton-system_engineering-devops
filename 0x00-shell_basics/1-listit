@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VAR1="Applications Documents Dropbox Movies Pictures Desktop Downloads Library Music Public"
+read "Applications Documents Dropbox Movies Pictures Desktop Downloads Library Music Public"
 
-echo $VAR1
+
 

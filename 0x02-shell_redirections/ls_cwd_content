@@ -1,0 +1,18 @@
+total 60
+-rwxr--r-- 1 root root  36 Feb  7 18:44 0-hello_world
+-rwxr--r-- 1 root root  30 Feb  7 16:52 1-confused_smiley
+-rwxr--r-- 1 root root  28 Feb  7 17:21 2-hellofile
+-rw-r--r-- 1 root root  26 Feb  7 17:14 2-hellofile~
+-rwxr--r-- 1 root root  39 Feb  7 18:31 3-twofiles
+-rwxr--r-- 1 root root  41 Feb  7 17:29 3-twofiles~
+-rwxr--r-- 1 root root  35 Feb  7 17:35 4-lastlines
+-rwxr--r-- 1 root root  35 Feb  7 17:40 5-firstlines
+-rwxr--r-- 1 root root  32 Feb  7 17:39 5-firstlines~
+-rwxr--r-- 1 root root  28 Feb  7 18:23 6-third_line
+-rw-r--r-- 1 root root  11 Feb  7 17:43 6-third_line~
+-rwxr--r-- 1 root root  76 Feb  7 19:01 7-file
+-rwxr--r-- 1 root root  35 Feb  7 19:23 8-cwd_state
+-rw-r--r-- 1 root root  12 Feb  7 19:21 8-cwd_state~
+-rw-r--r-- 1 root root 927 Feb  7 18:19 iacta
+-rw-r--r-- 1 root root   0 Feb  7 17:45 iacta~
+-rw-r--r-- 1 root root   0 Feb  7 19:24 ls_cwd_content

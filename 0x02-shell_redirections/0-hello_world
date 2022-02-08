@@ -1,3 +1,2 @@
 #!/bin/bash
-WORD="Hello, World"
-echo $WORD
+echo “Hello, World”

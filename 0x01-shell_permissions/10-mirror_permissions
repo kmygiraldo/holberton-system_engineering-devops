@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 354 rev hello 
+rev hello chmod 354

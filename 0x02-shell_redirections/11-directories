@@ -1,1 +1,2 @@
-#!/bin/bashx
+#!/bin/bash
+ls -l . | grep -c ^d

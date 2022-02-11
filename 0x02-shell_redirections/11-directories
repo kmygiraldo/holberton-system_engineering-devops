@@ -1,2 +1,2 @@
 #!/bin/bash
-find /root/holberton-system_engineering-devops/0x02-shell_redirections -type d | wc -l
+find ./* -maxdepth 0 -type d | wc -l

@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l . | grep -c ^d
+find /root/holberton-system_engineering-devops/0x02-shell_redirections -type d | wc -l

@@ -1,2 +1,2 @@
 #!/bin/bash
-print -lr -- **/*(om[1,10])
+% find . -printf '%TY-%Tm-%TdT%TT %p\n' |sort |tail -10

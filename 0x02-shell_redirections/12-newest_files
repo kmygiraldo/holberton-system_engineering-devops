@@ -1,2 +1,2 @@
 #!/bin/bash
-% find . -printf '%TY-%Tm-%TdT%TT %p\n' |sort |tail -10
+find ./ -type f -printf "%T@ %p\n" | sort -nr | tail -10
